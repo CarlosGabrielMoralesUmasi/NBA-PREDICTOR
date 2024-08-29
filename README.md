@@ -214,7 +214,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the Boost Software License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
 
